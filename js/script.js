@@ -14305,7 +14305,7 @@ default = g, g.propTypes = {
 						size: "s2",
 						top: 0,
 						left: 356,
-						label: E.i18n.pause[E.lan] + "(停)",
+						label: E.i18n.pause[E.lan] + "(P)",
 						active: e.get("pause"),
 						ref: function(e) {
 							t.dom_p = e
