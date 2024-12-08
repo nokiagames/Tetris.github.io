@@ -10825,7 +10825,7 @@ default.data.title[E], t.exports = {
 		"cn",
 		data: {
 			title: {
-				cn: "俄罗斯方块",
+				cn: "T E T R I S",
 				en: "T E T R I S",
 				fr: "T E T R I S",
 				fa: "خانه سازی"
@@ -10849,7 +10849,7 @@ default.data.title[E], t.exports = {
 				fa: "کیوآر کد"
 			},
 			titleCenter: {
-				cn: "俄罗斯方块<br />TETRIS",
+				cn: "TETRIS<br />GJGK···TVFpump",
 				en: "TETRIS",
 				fr: "TETRIS",
 				fa: "خانه سازی"
