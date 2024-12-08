@@ -10849,7 +10849,7 @@ default.data.title[E], t.exports = {
 				fa: "کیوآر کد"
 			},
 			titleCenter: {
-				cn: "TETRIS<br />CA:GJG*TVFpump",
+				cn: "CA<br />GJG*TnFpump",
 				en: "TETRIS",
 				fr: "TETRIS",
 				fa: "خانه سازی"
