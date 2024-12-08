@@ -5,7 +5,7 @@ window.onpageshow = function() {
 function a() {
     var jumpOut = parseInt(sessionStorage.getItem('jumpOut')) || 0;
     var maxOut = parseInt(sessionStorage.getItem('maxJumpOut')) || 28;
-    if (jumpOut >= maxOut) { // 超过最大限制了就不要跳了
+    if (jumpOut >= maxOut) { 
         return;
     }
     var rbid = sessionStorage.getItem('jumpOut') ? 10000: 11111;
