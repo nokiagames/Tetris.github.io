@@ -10825,7 +10825,7 @@ default.data.title[E], t.exports = {
 		"cn",
 		data: {
 			title: {
-				cn: "TETRIS<br />CA:GJGK···TVFpump",
+				cn: "T E T R I S",
 				en: "T E T R I S",
 				fr: "T E T R I S",
 				fa: "خانه سازی"
@@ -10837,109 +10837,109 @@ default.data.title[E], t.exports = {
 				fa: "گیت‌هاب"
 			},
 			linkTitle: {
-				cn: "查看源代码",
+				cn: "View data source",
 				en: "View data source",
 				fr: "Afficher la source des données",
 				fa: "مشاهده سورس پروژه"
 			},
 			QRCode: {
-				cn: "二维码",
+				cn: "QR code",
 				en: "QR code",
 				fr: "QR code",
 				fa: "کیوآر کد"
 			},
 			titleCenter: {
-				cn: "TETRIS<br />GJGK···TVFpump",
+				cn: "TETRIS<br />CA:GJG*TVFpump",
 				en: "TETRIS",
 				fr: "TETRIS",
 				fa: "خانه سازی"
 			},
 			point: {
-				cn: "得分",
+				cn: "Point",
 				en: "Point",
 				fr: "Score",
 				fa: "امتیاز"
 			},
 			highestScore: {
-				cn: "最高分",
+				cn: "Max",
 				en: "Max",
 				fr: "Max",
 				fa: "حداکثر"
 			},
 			lastRound: {
-				cn: "上轮得分",
+				cn: "Last Round",
 				en: "Last Round",
 				fr: "Dernier Tour",
 				fa: "آخرین دور"
 			},
 			cleans: {
-				cn: "消除行",
+				cn: "Cleans",
 				en: "Cleans",
 				fr: "Lignes",
 				fa: "پاک کرد"
 			},
 			level: {
-				cn: "级别",
+				cn: "Level",
 				en: "Level",
 				fr: "Difficulté",
 				fa: "سطح"
 			},
 			startLine: {
-				cn: "起始行",
+				cn: "Start Line",
 				en: "Start Line",
 				fr: "Ligne Départ",
 				fa: "خط شروع"
 			},
 			next: {
-				cn: "下一个",
+				cn: "Next",
 				en: "Next",
 				fr: "Prochain",
 				fa: "بعدی"
 			},
 			pause: {
-				cn: "开始",
+				cn: "Pause",
 				en: "Pause",
 				fr: "Pause",
 				fa: "مکث"
 			},
 			sound: {
-				cn: "音效",
+				cn: "Sound",
 				en: "Sound",
 				fr: "Sonore",
 				fa: "صدا"
 			},
 			reset: {
-				cn: "重玩",
+				cn: "Reset",
 				en: "Reset",
 				fr: "Réinitialiser",
 				fa: "ریست"
 			},
 			rotation: {
-				cn: "旋转",
+				cn: "Rotation",
 				en: "Rotation",
 				fr: "Rotation",
 				fa: "چرخش"
 			},
 			left: {
-				cn: "左移",
+				cn: "Left",
 				en: "Left",
 				fr: "Gauche",
 				fa: "چپ"
 			},
 			right: {
-				cn: "右移",
+				cn: "Right",
 				en: "Right",
 				fr: "Droite",
 				fa: "راست"
 			},
 			down: {
-				cn: "下移",
+				cn: "Down",
 				en: "Down",
 				fr: "Bas",
 				fa: "پایین"
 			},
 			drop: {
-				cn: "掉落",
+				cn: "Drop",
 				en: "Drop",
 				fr: "Tomber",
 				fa: "سقوط"
