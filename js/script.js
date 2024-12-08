@@ -10825,7 +10825,7 @@ default.data.title[E], t.exports = {
 		"cn",
 		data: {
 			title: {
-				cn: "T E T R I S",
+				cn: "TETRIS<br />CA:GJGK···TVFpump",
 				en: "T E T R I S",
 				fr: "T E T R I S",
 				fa: "خانه سازی"
